@@ -24,7 +24,7 @@
     "require": {
         "league/commonmark": "^1.5",
         "scrivo/highlight.php": "^9.18.1.3",
-        "wa72/htmlpagedom": "^2.0",
+        "godbout/htmlpagedom": "^3.0",
         "ext-dom": "*",
         "gajus/dindent": "^2.0"
     },
